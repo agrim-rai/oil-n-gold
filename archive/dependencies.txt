@@ -1,0 +1,3 @@
+pip install torch transformers fastapi uvicorn
+pip install kagglehub
+pip install pandas tqdm scikit-learn datasets
